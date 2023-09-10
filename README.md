@@ -1,6 +1,6 @@
 # Pokemon-Analysis-and-ML-model
 
-1>  Pulled Pokemon Data Using API taken from Rapid API's.
+1>  Pulled Pokemon Data Using API taken from Rapid API's.<br>
 2>  Pulled multiple datasets, Conversted them into pandas dataframe form json format and cleaned them for further Analysis.
 3>  Analyzed the data and gained multiple insights.
 4>  Key Insights include- 
